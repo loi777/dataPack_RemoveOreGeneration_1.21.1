@@ -11,4 +11,6 @@ You can easily and quickly change about anything in this manner.
 Inside json configuration, understand "count" as the max amount of ores in a vein, and "rarity chance" as the probability of spawn (but you cant just put it into 0, you must create a "count" and set it to zero).
 Immersive engineer is quite old, so you'll have to get creative.
 
+"overworld.json" is set in this datapack, but all that we do is change a single value from true to false, located in "ore_veins_enabled".
+
 Remember to alter the datapack order if you think it might be overwritten
