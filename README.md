@@ -12,5 +12,3 @@ Inside json configuration, understand "count" as the max amount of ores in a vei
 Immersive engineer is quite old, so you'll have to get creative.
 
 Remember to alter the datapack order if you think it might be overwritten
-
-Goodbye.
